@@ -1,0 +1,7 @@
+latex2sympy2==1.9.1
+pix2tex==0.1.2
+pylatexenc==2.10
+pyppeteer==1.0.2
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+sympy==1.12
